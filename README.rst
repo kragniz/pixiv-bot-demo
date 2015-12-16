@@ -6,6 +6,8 @@ A demo pixiv bot to dogfood python-pixiv
 Licence
 -------
 
+GPLv3
+
 Authors
 -------
 
