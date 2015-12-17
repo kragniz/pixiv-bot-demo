@@ -1,7 +1,7 @@
 pixiv-bot-demo
 ==============
 
-A demo pixiv bot to dogfood python-pixiv
+A demo pixiv bot to dogfood `python-pixiv <https://github.com/kragniz/python-pixiv>`_.
 
 Licence
 -------
