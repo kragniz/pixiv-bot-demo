@@ -6,7 +6,7 @@ A demo pixiv bot to dogfood `python-pixiv <https://github.com/kragniz/python-pix
 Licence
 -------
 
-GPLv3
+MIT
 
 Authors
 -------
