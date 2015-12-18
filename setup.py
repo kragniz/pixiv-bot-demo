@@ -13,7 +13,7 @@ setuptools.setup(
 
     packages=setuptools.find_packages(),
 
-    install_requires=[],
+    install_requires=['pixiv'],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
